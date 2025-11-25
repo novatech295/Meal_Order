@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meal_Order/static/css/main.6d67d3ac.css",
+    "main.js": "/Meal_Order/static/js/main.688e50cb.js",
+    "static/js/787.30f98fb0.chunk.js": "/Meal_Order/static/js/787.30f98fb0.chunk.js",
+    "static/media/pngegg.png": "/Meal_Order/static/media/pngegg.7033f67421d5e63955d5.png",
+    "index.html": "/Meal_Order/index.html",
+    "main.6d67d3ac.css.map": "/Meal_Order/static/css/main.6d67d3ac.css.map",
+    "main.688e50cb.js.map": "/Meal_Order/static/js/main.688e50cb.js.map",
+    "787.30f98fb0.chunk.js.map": "/Meal_Order/static/js/787.30f98fb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d67d3ac.css",
+    "static/js/main.688e50cb.js"
+  ]
+}
